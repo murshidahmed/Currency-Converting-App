@@ -1,4 +1,4 @@
-💱 Currency Converter App
+💱 Currency Converter App <br/>
 A responsive and user-friendly web application built with React and Express.js that allows users to convert currencies based on historical exchange rates. It uses the Open Exchange Rates API to fetch currency names and historical rates.
 
 🚀 Features <br/>
@@ -9,13 +9,11 @@ A responsive and user-friendly web application built with React and Express.js t
 ⚡ Responsive Design: Clean and responsive UI with Tailwind CSS for a modern look. <br/>
 
 🛠️ Tech Stack <br/>
-Frontend:
-  React, Axios, Tailwind CSS
+Frontend: <br/>
+&nbsp; React, Tailwind CSS
 
-Backend:
-  Node.js,
-  Express.js,
-  Axios
+Backend: <br/>
+&nbsp; Node.js, Express.js, Axios
 
-API:
-  Open Exchange Rates API
+API: <br/>
+&nbsp; Open Exchange Rates API
